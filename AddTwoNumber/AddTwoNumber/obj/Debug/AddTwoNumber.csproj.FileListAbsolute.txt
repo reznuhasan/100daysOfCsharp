@@ -1,0 +1,7 @@
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.exe.config
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.exe
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.pdb
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.AssemblyReference.cache
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.CoreCompileInputs.cache
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.exe
+D:\riznu\Csharp\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.pdb

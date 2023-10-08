@@ -1,0 +1,7 @@
+D:\riznu\Csharp\Take Input From User\Take Input From User\bin\Debug\Take Input From User.exe.config
+D:\riznu\Csharp\Take Input From User\Take Input From User\bin\Debug\Take Input From User.exe
+D:\riznu\Csharp\Take Input From User\Take Input From User\bin\Debug\Take Input From User.pdb
+D:\riznu\Csharp\Take Input From User\Take Input From User\obj\Debug\Take Input From User.csproj.AssemblyReference.cache
+D:\riznu\Csharp\Take Input From User\Take Input From User\obj\Debug\Take Input From User.csproj.CoreCompileInputs.cache
+D:\riznu\Csharp\Take Input From User\Take Input From User\obj\Debug\Take Input From User.exe
+D:\riznu\Csharp\Take Input From User\Take Input From User\obj\Debug\Take Input From User.pdb
