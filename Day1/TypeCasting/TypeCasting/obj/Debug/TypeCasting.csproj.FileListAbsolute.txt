@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe.config
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\bin\Debug\TypeCasting.pdb
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\obj\Debug\TypeCasting.exe
+D:\riznu\100daysOfCsharp\Day1\TypeCasting\TypeCasting\obj\Debug\TypeCasting.pdb

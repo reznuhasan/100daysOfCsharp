@@ -4,14 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Take_Float_Value
+namespace TypeCasting
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            float a = float.Parse(Console.ReadLine());
-            Console.WriteLine(a);
+            string a = "45";
+            int b = Convert.ToInt32(a);
+            Console.WriteLine(b);
+            int c = int.Parse(a);
+            Console.WriteLine(c);
             Console.ReadLine();
 
         }
