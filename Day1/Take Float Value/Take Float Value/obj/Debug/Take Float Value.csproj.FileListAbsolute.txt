@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\bin\Debug\Take Float Value.exe.config
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\bin\Debug\Take Float Value.exe
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\bin\Debug\Take Float Value.pdb
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\obj\Debug\Take Float Value.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\obj\Debug\Take Float Value.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\obj\Debug\Take Float Value.exe
+D:\riznu\100daysOfCsharp\Day1\Take Float Value\Take Float Value\obj\Debug\Take Float Value.pdb

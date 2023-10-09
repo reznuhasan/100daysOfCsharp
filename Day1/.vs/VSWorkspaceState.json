@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AddTwoNumber",
+    "\\AddTwoNumber\\AddTwoNumber"
   ],
+  "SelectedNode": "\\AddTwoNumber\\AddTwoNumber\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
