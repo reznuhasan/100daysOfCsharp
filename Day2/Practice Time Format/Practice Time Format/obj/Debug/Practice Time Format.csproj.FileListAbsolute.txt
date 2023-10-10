@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\bin\Debug\Practice Time Format.exe.config
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\bin\Debug\Practice Time Format.exe
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\bin\Debug\Practice Time Format.pdb
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\obj\Debug\Practice Time Format.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\obj\Debug\Practice Time Format.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\obj\Debug\Practice Time Format.exe
+D:\riznu\100daysOfCsharp\Day2\Practice Time Format\Practice Time Format\obj\Debug\Practice Time Format.pdb
