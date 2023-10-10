@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\bin\Debug\Check Even Or Odd Number.exe.config
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\bin\Debug\Check Even Or Odd Number.exe
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\bin\Debug\Check Even Or Odd Number.pdb
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\obj\Debug\Check Even Or Odd Number.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\obj\Debug\Check Even Or Odd Number.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\obj\Debug\Check Even Or Odd Number.exe
+D:\riznu\100daysOfCsharp\Day2\Check Even Or Odd Number\Check Even Or Odd Number\obj\Debug\Check Even Or Odd Number.pdb
