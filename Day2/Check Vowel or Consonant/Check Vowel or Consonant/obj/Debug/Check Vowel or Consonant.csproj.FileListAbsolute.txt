@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\bin\Debug\Check Vowel or Consonant.exe.config
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\bin\Debug\Check Vowel or Consonant.exe
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\bin\Debug\Check Vowel or Consonant.pdb
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\obj\Debug\Check Vowel or Consonant.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\obj\Debug\Check Vowel or Consonant.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\obj\Debug\Check Vowel or Consonant.exe
+D:\riznu\100daysOfCsharp\Day2\Check Vowel or Consonant\Check Vowel or Consonant\obj\Debug\Check Vowel or Consonant.pdb
