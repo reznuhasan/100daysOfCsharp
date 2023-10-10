@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+D:\riznu\100daysOfCsharp\Day2\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
