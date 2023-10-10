@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\bin\Debug\Date and Time Format.exe.config
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\bin\Debug\Date and Time Format.exe
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\bin\Debug\Date and Time Format.pdb
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\obj\Debug\Date and Time Format.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\obj\Debug\Date and Time Format.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\obj\Debug\Date and Time Format.exe
+D:\riznu\100daysOfCsharp\Day2\Date and Time Format\Date and Time Format\obj\Debug\Date and Time Format.pdb
