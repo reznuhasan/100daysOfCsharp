@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\bin\Debug\Check Prime Number.exe.config
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\bin\Debug\Check Prime Number.exe
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\bin\Debug\Check Prime Number.pdb
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\obj\Debug\Check Prime Number.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\obj\Debug\Check Prime Number.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\obj\Debug\Check Prime Number.exe
+D:\riznu\100daysOfCsharp\Day3\Check Prime Number\Check Prime Number\obj\Debug\Check Prime Number.pdb
