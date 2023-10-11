@@ -10,68 +10,78 @@ namespace Password_Checker
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your password:");
-            string password = Console.ReadLine();
-            if (password.Length <= 8)
+            while (true)
             {
-                Console.WriteLine("Password must be more than 8 character");
-            }
-            else
-            {
-                int upper = 0;
-                int lower = 0;
-                int num = 0;
-                int special = 0;
-                foreach (char letter in password)
+                Console.Write("Enter your password:");
+                string password = Console.ReadLine();
+                if (password.Length <= 8)
                 {
-                    if(letter>=65 && letter <= 90)
-                    {
-                        upper++;
-                    }
-                    if(letter>=97 && letter <= 122)
-                    {
-                        lower++;
-                    }
-                    if(letter>=49 && letter <= 58)
-                    {
-                        num++;
-                    }
-                    if((letter>=32 && letter<=47) || (letter >= 58 && letter <= 64) || (letter >= 91 && letter <= 96) || (letter >= 123 && letter <= 126))
-                    {
-                        special++;
-                    }
-                }
-                if (upper == 0)
-                {
-                    Console.WriteLine("Use a upper lettr (A-Z)");
-                }
-                else if (lower == 0)
-                {
-                    Console.WriteLine("Use a lower letter (a-z)");
-                }
-                else if (num == 0)
-                {
-                    Console.WriteLine("Use a number (0-9)");
-                }else if(special == 0)
-                {
-                    Console.WriteLine("Use a special character");
+                    Console.WriteLine("Password must be more than 8 character");
                 }
                 else
                 {
-                    Console.WriteLine("Password create a successfully");
-                    if (password.Length > 12)
+                    int upper = 0;
+                    int lower = 0;
+                    int num = 0;
+                    int special = 0;
+                    foreach (char letter in password)
                     {
-                        Console.WriteLine("Quality:- Good");
-                    }else if (special > 3)
+                        if (letter >= 65 && letter <= 90)
+                        {
+                            upper++;
+                        }
+                        if (letter >= 97 && letter <= 122)
+                        {
+                            lower++;
+                        }
+                        if (letter >= 49 && letter <= 58)
+                        {
+                            num++;
+                        }
+                        if ((letter >= 32 && letter <= 47) || (letter >= 58 && letter <= 64) || (letter >= 91 && letter <= 96) || (letter >= 123 && letter <= 126))
+                        {
+                            special++;
+                        }
+                    }
+                    if (upper == 0)
                     {
-                        Console.WriteLine("Quality:- Good");
-                    }else if(special>3 && password.Length > 12)
+                        Console.WriteLine("Use a upper lettr (A-Z)");
+                    }
+                    else if (lower == 0)
                     {
-                        Console.WriteLine("Quality:- Excellent");
+                        Console.WriteLine("Use a lower letter (a-z)");
+                    }
+                    else if (num == 0)
+                    {
+                        Console.WriteLine("Use a number (0-9)");
+                    }
+                    else if (special == 0)
+                    {
+                        Console.WriteLine("Use a special character");
                     }
                     else
                     {
-                        Console.WriteLine("Quality:- Average");
+                        Console.WriteLine("Password create a successfully");
+                        if (password.Length > 12)
+                        {
+                            Console.WriteLine("Quality:- Good");
+                            break;
+                        }
+                        else if (special > 3)
+                        {
+                            Console.WriteLine("Quality:- Good");
+                            break;
+                        }
+                        else if (special > 3 && password.Length > 12)
+                        {
+                            Console.WriteLine("Quality:- Excellent");
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Quality:- Average");
+                            break;
+                        }
                     }
                 }
             }
