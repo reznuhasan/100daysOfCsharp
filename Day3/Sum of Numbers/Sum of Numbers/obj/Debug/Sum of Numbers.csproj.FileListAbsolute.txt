@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+D:\riznu\100daysOfCsharp\Day2\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
