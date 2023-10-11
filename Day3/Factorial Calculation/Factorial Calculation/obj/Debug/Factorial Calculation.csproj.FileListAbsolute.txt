@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\bin\Debug\Factorial Calculation.exe.config
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\bin\Debug\Factorial Calculation.exe
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\bin\Debug\Factorial Calculation.pdb
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\obj\Debug\Factorial Calculation.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\obj\Debug\Factorial Calculation.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\obj\Debug\Factorial Calculation.exe
+D:\riznu\100daysOfCsharp\Day3\Factorial Calculation\Factorial Calculation\obj\Debug\Factorial Calculation.pdb
