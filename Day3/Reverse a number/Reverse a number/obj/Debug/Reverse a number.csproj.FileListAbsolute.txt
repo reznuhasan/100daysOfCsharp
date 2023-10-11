@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\bin\Debug\Reverse a number.exe.config
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\bin\Debug\Reverse a number.exe
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\bin\Debug\Reverse a number.pdb
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\obj\Debug\Reverse a number.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\obj\Debug\Reverse a number.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\obj\Debug\Reverse a number.exe
+D:\riznu\100daysOfCsharp\Day3\Reverse a number\Reverse a number\obj\Debug\Reverse a number.pdb
