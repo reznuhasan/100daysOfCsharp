@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+D:\riznu\100daysOfCsharp\Day3\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
