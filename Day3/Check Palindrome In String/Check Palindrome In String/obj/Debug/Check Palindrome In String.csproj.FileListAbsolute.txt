@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\bin\Debug\Check Palindrome In String.exe.config
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\bin\Debug\Check Palindrome In String.exe
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\bin\Debug\Check Palindrome In String.pdb
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\obj\Debug\Check Palindrome In String.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\obj\Debug\Check Palindrome In String.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\obj\Debug\Check Palindrome In String.exe
+D:\riznu\100daysOfCsharp\Day3\Check Palindrome In String\Check Palindrome In String\obj\Debug\Check Palindrome In String.pdb
