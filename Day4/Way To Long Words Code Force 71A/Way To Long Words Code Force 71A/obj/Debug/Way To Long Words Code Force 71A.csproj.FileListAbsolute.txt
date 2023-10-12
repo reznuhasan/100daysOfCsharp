@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\bin\Debug\Way To Long Words Code Force 71A.exe.config
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\bin\Debug\Way To Long Words Code Force 71A.exe
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\bin\Debug\Way To Long Words Code Force 71A.pdb
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\obj\Debug\Way To Long Words Code Force 71A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\obj\Debug\Way To Long Words Code Force 71A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\obj\Debug\Way To Long Words Code Force 71A.exe
+D:\riznu\100daysOfCsharp\Day4\Way To Long Words Code Force 71A\Way To Long Words Code Force 71A\obj\Debug\Way To Long Words Code Force 71A.pdb
