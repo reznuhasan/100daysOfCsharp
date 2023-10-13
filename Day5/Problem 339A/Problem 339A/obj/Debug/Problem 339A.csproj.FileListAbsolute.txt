@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\bin\Debug\Problem 339A.exe.config
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\bin\Debug\Problem 339A.exe
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\bin\Debug\Problem 339A.pdb
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\obj\Debug\Problem 339A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\obj\Debug\Problem 339A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\obj\Debug\Problem 339A.exe
+D:\riznu\100daysOfCsharp\Day4\Problem 339A\Problem 339A\obj\Debug\Problem 339A.pdb
