@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\bin\Debug\ICPC Problem G.exe.config
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\bin\Debug\ICPC Problem G.exe
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\bin\Debug\ICPC Problem G.pdb
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\obj\Debug\ICPC Problem G.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\obj\Debug\ICPC Problem G.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\obj\Debug\ICPC Problem G.exe
+D:\riznu\100daysOfCsharp\Day4\ICPC Problem G\ICPC Problem G\obj\Debug\ICPC Problem G.pdb
