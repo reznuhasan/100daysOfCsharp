@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\bin\Debug\Problem 546A.exe.config
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\bin\Debug\Problem 546A.exe
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\bin\Debug\Problem 546A.pdb
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\obj\Debug\Problem 546A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\obj\Debug\Problem 546A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\obj\Debug\Problem 546A.exe
+D:\riznu\100daysOfCsharp\Day5\Problem 546A\Problem 546A\obj\Debug\Problem 546A.pdb
