@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\bin\Debug\Problem 266A.exe.config
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\bin\Debug\Problem 266A.exe
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\bin\Debug\Problem 266A.pdb
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\obj\Debug\Problem 266A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\obj\Debug\Problem 266A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\obj\Debug\Problem 266A.exe
+D:\riznu\100daysOfCsharp\Day6\Problem 266A\Problem 266A\obj\Debug\Problem 266A.pdb
