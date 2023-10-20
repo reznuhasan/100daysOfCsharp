@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\bin\Debug\OOPs_Constructor.exe.config
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\bin\Debug\OOPs_Constructor.exe
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\bin\Debug\OOPs_Constructor.pdb
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\obj\Debug\OOPs_Constructor.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\obj\Debug\OOPs_Constructor.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\obj\Debug\OOPs_Constructor.exe
+D:\riznu\100daysOfCsharp\Day6\OOPs_Constructor\OOPs_Constructor\obj\Debug\OOPs_Constructor.pdb
