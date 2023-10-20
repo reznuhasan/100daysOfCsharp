@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\bin\Debug\Problem 41A.exe.config
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\bin\Debug\Problem 41A.exe
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\bin\Debug\Problem 41A.pdb
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\obj\Debug\Problem 41A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\obj\Debug\Problem 41A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\obj\Debug\Problem 41A.exe
+D:\riznu\100daysOfCsharp\Day6\Problem 41A\Problem 41A\obj\Debug\Problem 41A.pdb
