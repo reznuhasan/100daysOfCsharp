@@ -1,46 +1,48 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_59A
+﻿long myValue;
+while (true)
 {
-    internal class Program
+    myValue = long.Parse(Console.ReadLine());
+    if(myValue>=1 && myValue<= 1000000000000000000)
     {
-        static void Main(string[] args)
-        {
-            string word;
-            while (true)
-            {
-                word = Console.ReadLine();
-                if(word.Length>=1 && word.Length <= 100)
-                {
-                    break;
-                }
-            }
-            int lower = 0;
-            int upper = 0;
-            for(int i = 0; i < word.Length; i++)
-            {
-                int num = Convert.ToInt32(word[i]);
-                if(num>=97 && num <= 122)
-                {
-                    lower++;
-                }else if(num>=65 && num <= 90)
-                {
-                    upper++;
-                }
-            }
-            if (upper >lower)
-            {
-                Console.WriteLine("{0}",word.ToUpper());
-            }
-            else
-            {
-                Console.WriteLine("{0}", word.ToLower());
-            }
-            Console.ReadLine();
-        }
+        break;
     }
 }
+int flag = 0;
+int totalNumber = 0;
+while (myValue>0)
+{
+    int reminder = (int)(myValue % 10);
+    if(reminder==7 || reminder == 4)
+    {
+        flag++;
+    }
+    myValue /= 10;
+    totalNumber++;
+
+}
+
+
+ int count = 0;
+ int countNo = 0;
+ while (flag > 0)
+    {
+      int res = flag % 10;
+      if(res==4 || res == 7)
+        {
+            count++;
+        }
+      countNo++;
+      flag /= 10;
+
+    }
+ if (count == countNo)
+    {
+      Console.WriteLine("YES");
+ }
+ else
+   {
+     Console.WriteLine("NO");
+ }
+}
+           
+Console.ReadLine();
