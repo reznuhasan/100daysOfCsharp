@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\bin\Debug\Problem 677A.exe.config
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\bin\Debug\Problem 677A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\bin\Debug\Problem 677A.pdb
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\obj\Debug\Problem 677A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\obj\Debug\Problem 677A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\obj\Debug\Problem 677A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 677A\Problem 677A\obj\Debug\Problem 677A.pdb
