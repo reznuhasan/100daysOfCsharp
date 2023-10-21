@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\bin\Debug\Problem 160A.exe.config
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\bin\Debug\Problem 160A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\bin\Debug\Problem 160A.pdb
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\obj\Debug\Problem 160A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\obj\Debug\Problem 160A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\obj\Debug\Problem 160A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 160A\Problem 160A\obj\Debug\Problem 160A.pdb
