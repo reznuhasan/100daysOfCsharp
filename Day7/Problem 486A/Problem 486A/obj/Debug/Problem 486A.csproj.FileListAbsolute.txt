@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\bin\Debug\Problem 486A.exe.config
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\bin\Debug\Problem 486A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\bin\Debug\Problem 486A.pdb
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\obj\Debug\Problem 486A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\obj\Debug\Problem 486A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\obj\Debug\Problem 486A.exe
+D:\riznu\100daysOfCsharp\Day7\Problem 486A\Problem 486A\obj\Debug\Problem 486A.pdb
