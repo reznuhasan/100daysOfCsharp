@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\bin\Debug\Problem 318A.exe.config
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\bin\Debug\Problem 318A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\bin\Debug\Problem 318A.pdb
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\obj\Debug\Problem 318A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\obj\Debug\Problem 318A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\obj\Debug\Problem 318A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 318A\Problem 318A\obj\Debug\Problem 318A.pdb
