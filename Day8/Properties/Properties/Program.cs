@@ -10,6 +10,10 @@ namespace Properties
     {
         static void Main(string[] args)
         {
+            Person person1 = new Person("1234");
+            person1.FirstName="";
+            Console.WriteLine(person1.FirstName);
+            Console.ReadLine();
         }
     }
 }

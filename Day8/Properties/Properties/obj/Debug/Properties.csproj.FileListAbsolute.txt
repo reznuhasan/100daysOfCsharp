@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\bin\Debug\Properties.exe.config
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\bin\Debug\Properties.exe
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\bin\Debug\Properties.pdb
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\obj\Debug\Properties.exe
+D:\riznu\100daysOfCsharp\Day8\Properties\Properties\obj\Debug\Properties.pdb
