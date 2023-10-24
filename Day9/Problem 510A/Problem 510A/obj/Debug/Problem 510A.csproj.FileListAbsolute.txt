@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\bin\Debug\Problem 510A.exe.config
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\bin\Debug\Problem 510A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\bin\Debug\Problem 510A.pdb
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\obj\Debug\Problem 510A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\obj\Debug\Problem 510A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\obj\Debug\Problem 510A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 510A\Problem 510A\obj\Debug\Problem 510A.pdb
