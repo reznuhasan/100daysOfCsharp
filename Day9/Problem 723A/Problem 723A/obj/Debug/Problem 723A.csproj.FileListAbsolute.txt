@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\bin\Debug\Problem 723A.exe.config
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\bin\Debug\Problem 723A.exe
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\bin\Debug\Problem 723A.pdb
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\obj\Debug\Problem 723A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\obj\Debug\Problem 723A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\obj\Debug\Problem 723A.exe
+D:\riznu\100daysOfCsharp\Day9\Problem 723A\Problem 723A\obj\Debug\Problem 723A.pdb
