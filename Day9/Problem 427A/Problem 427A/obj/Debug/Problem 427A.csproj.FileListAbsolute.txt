@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\bin\Debug\Problem 427A.exe.config
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\bin\Debug\Problem 427A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\bin\Debug\Problem 427A.pdb
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\obj\Debug\Problem 427A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\obj\Debug\Problem 427A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\obj\Debug\Problem 427A.exe
+D:\riznu\100daysOfCsharp\Day8\Problem 427A\Problem 427A\obj\Debug\Problem 427A.pdb
