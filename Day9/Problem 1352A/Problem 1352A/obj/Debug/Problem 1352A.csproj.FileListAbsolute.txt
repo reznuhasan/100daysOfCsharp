@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\bin\Debug\Problem 1352A.exe.config
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\bin\Debug\Problem 1352A.exe
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\bin\Debug\Problem 1352A.pdb
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\obj\Debug\Problem 1352A.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\obj\Debug\Problem 1352A.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\obj\Debug\Problem 1352A.exe
+D:\riznu\100daysOfCsharp\Day9\Problem 1352A\Problem 1352A\obj\Debug\Problem 1352A.pdb
