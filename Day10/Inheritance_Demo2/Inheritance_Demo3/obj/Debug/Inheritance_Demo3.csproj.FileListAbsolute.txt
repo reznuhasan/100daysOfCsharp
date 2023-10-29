@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\bin\Debug\Inheritance_Demo3.exe.config
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\bin\Debug\Inheritance_Demo3.exe
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\bin\Debug\Inheritance_Demo3.pdb
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\obj\Debug\Inheritance_Demo3.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\obj\Debug\Inheritance_Demo3.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\obj\Debug\Inheritance_Demo3.exe
+D:\riznu\100daysOfCsharp\Day10\ConsoleApp1\Inheritance_Demo3\obj\Debug\Inheritance_Demo3.pdb
