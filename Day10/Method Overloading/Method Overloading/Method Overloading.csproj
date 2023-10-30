@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7684DF99-32E9-49AE-9529-2FA8096C9308}</ProjectGuid>
+    <ProjectGuid>{D7D57F0F-DF1E-4DA0-84ED-574E58CD7BCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Inheritance_Project</RootNamespace>
-    <AssemblyName>Inheritance Project</AssemblyName>
+    <RootNamespace>Method_Overloading</RootNamespace>
+    <AssemblyName>Method Overloading</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Method_Overloading.Program2</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,12 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Program2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staff.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="Teacher.cs" />
-    <Compile Include="Technical.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

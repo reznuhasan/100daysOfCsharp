@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Project
 {
-    internal class Program
+    internal class Person
     {
-        static void Main(string[] args)
-        {
-        }
+        public string name;
+        public int id;
+        public string email;
     }
 }

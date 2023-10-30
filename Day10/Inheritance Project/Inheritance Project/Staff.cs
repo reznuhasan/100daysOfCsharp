@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Project
 {
-    internal class Staff
+    internal class Staff:Person
     {
+        public string department;
+        public string location;
     }
 }
