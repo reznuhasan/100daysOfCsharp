@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\bin\Debug\Sum_of_Non_Numerical_Value.exe.config
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\bin\Debug\Sum_of_Non_Numerical_Value.exe
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\bin\Debug\Sum_of_Non_Numerical_Value.pdb
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\obj\Debug\Sum_of_Non_Numerical_Value.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\obj\Debug\Sum_of_Non_Numerical_Value.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\obj\Debug\Sum_of_Non_Numerical_Value.exe
+E:\riznu\100daysOfCsharp\Day11\Sum_of_Non_Numerical_Value\Sum_of_Non_Numerical_Value\obj\Debug\Sum_of_Non_Numerical_Value.pdb
