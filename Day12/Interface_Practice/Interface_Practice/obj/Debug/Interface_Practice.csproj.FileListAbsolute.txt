@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\bin\Debug\Interface_Practice.exe.config
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\bin\Debug\Interface_Practice.exe
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\bin\Debug\Interface_Practice.pdb
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\obj\Debug\Interface_Practice.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\obj\Debug\Interface_Practice.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\obj\Debug\Interface_Practice.exe
+D:\riznu\100daysOfCsharp\Day12\Interface_Practice\Interface_Practice\obj\Debug\Interface_Practice.pdb
