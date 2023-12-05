@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\bin\Debug\AbstractClassPractice.exe.config
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\bin\Debug\AbstractClassPractice.exe
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\bin\Debug\AbstractClassPractice.pdb
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\obj\Debug\AbstractClassPractice.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\obj\Debug\AbstractClassPractice.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\obj\Debug\AbstractClassPractice.exe
+D:\riznu\100daysOfCsharp\Day12\AbstractClassPractice\AbstractClassPractice\obj\Debug\AbstractClassPractice.pdb
