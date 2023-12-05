@@ -1,0 +1,7 @@
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\bin\Debug\Structures Practice.exe.config
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\bin\Debug\Structures Practice.exe
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\bin\Debug\Structures Practice.pdb
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\obj\Debug\Structures Practice.csproj.AssemblyReference.cache
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\obj\Debug\Structures Practice.csproj.CoreCompileInputs.cache
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\obj\Debug\Structures Practice.exe
+D:\riznu\100daysOfCsharp\Day12\Structures Practice\Structures Practice\obj\Debug\Structures Practice.pdb
