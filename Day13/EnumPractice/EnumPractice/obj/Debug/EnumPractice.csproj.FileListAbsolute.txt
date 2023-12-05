@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe.config
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\bin\Debug\EnumPractice.pdb
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\obj\Debug\EnumPractice.exe
+E:\riznu\100daysOfCsharp\Day13\EnumPractice\EnumPractice\obj\Debug\EnumPractice.pdb
