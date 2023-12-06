@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\bin\Debug\GenericList.exe.config
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\bin\Debug\GenericList.exe
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\bin\Debug\GenericList.pdb
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\obj\Debug\GenericList.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\obj\Debug\GenericList.exe
+E:\riznu\100daysOfCsharp\Day13\GenericList\GenericList\obj\Debug\GenericList.pdb

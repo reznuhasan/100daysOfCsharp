@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\bin\Debug\ArrayListPractice1.exe.config
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\bin\Debug\ArrayListPractice1.exe
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\bin\Debug\ArrayListPractice1.pdb
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\obj\Debug\ArrayListPractice1.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\obj\Debug\ArrayListPractice1.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\obj\Debug\ArrayListPractice1.exe
+E:\riznu\100daysOfCsharp\Day13\ArrayListPractice1\ArrayListPractice1\obj\Debug\ArrayListPractice1.pdb
