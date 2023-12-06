@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\bin\Debug\Properties Recap.exe.config
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\bin\Debug\Properties Recap.exe
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\bin\Debug\Properties Recap.pdb
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\obj\Debug\Properties Recap.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\obj\Debug\Properties Recap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\obj\Debug\Properties Recap.exe
+E:\riznu\100daysOfCsharp\Day13\Properties Recap\Properties Recap\obj\Debug\Properties Recap.pdb
