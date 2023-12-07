@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\bin\Debug\Generics1.exe.config
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\bin\Debug\Generics1.exe
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\bin\Debug\Generics1.pdb
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\obj\Debug\Generics1.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\obj\Debug\Generics1.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\obj\Debug\Generics1.exe
+E:\riznu\100daysOfCsharp\Day14\Generics1\Generics1\obj\Debug\Generics1.pdb
