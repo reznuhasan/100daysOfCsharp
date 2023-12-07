@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SortedList",
+    "\\SortedList\\Generics1"
   ],
+  "SelectedNode": "\\SortedList\\Generics1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

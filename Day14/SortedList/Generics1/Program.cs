@@ -13,6 +13,7 @@ namespace SortedList
             list.Add(50);
             list.Add(20);
             list.Add(40);
+            list.Insert(5, 90);
             list.Sort();
             foreach (int i in list)
             {

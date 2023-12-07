@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\bin\Debug\StackNoGenerics.exe.config
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\bin\Debug\StackNoGenerics.exe
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\bin\Debug\StackNoGenerics.pdb
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\obj\Debug\StackNoGenerics.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\obj\Debug\StackNoGenerics.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\obj\Debug\StackNoGenerics.exe
+E:\riznu\100daysOfCsharp\Day14\StackNoGenerics\StackNoGenerics\obj\Debug\StackNoGenerics.pdb
