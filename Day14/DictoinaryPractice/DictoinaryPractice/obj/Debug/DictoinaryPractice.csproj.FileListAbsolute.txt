@@ -1,0 +1,7 @@
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\bin\Debug\DictoinaryPractice.exe.config
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\bin\Debug\DictoinaryPractice.exe
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\bin\Debug\DictoinaryPractice.pdb
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\obj\Debug\DictoinaryPractice.csproj.AssemblyReference.cache
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\obj\Debug\DictoinaryPractice.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\obj\Debug\DictoinaryPractice.exe
+E:\riznu\100daysOfCsharp\Day14\DictoinaryPractice\DictoinaryPractice\obj\Debug\DictoinaryPractice.pdb
