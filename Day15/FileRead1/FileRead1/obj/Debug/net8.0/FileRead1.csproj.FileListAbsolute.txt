@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\bin\Debug\net8.0\FileRead1.exe
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\bin\Debug\net8.0\FileRead1.deps.json
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\bin\Debug\net8.0\FileRead1.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\bin\Debug\net8.0\FileRead1.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\bin\Debug\net8.0\FileRead1.pdb
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.sourcelink.json
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\refint\FileRead1.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.pdb
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\FileRead1.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead1\FileRead1\obj\Debug\net8.0\ref\FileRead1.dll

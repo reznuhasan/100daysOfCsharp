@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\bin\Debug\net8.0\FileHandling2.exe
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\bin\Debug\net8.0\FileHandling2.deps.json
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\bin\Debug\net8.0\FileHandling2.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\bin\Debug\net8.0\FileHandling2.dll
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\bin\Debug\net8.0\FileHandling2.pdb
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.sourcelink.json
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.dll
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\refint\FileHandling2.dll
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.pdb
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\FileHandling2.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day15\FileHandling2\FileHandling2\obj\Debug\net8.0\ref\FileHandling2.dll

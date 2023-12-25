@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\bin\Debug\net8.0\FileRead2.exe
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\bin\Debug\net8.0\FileRead2.deps.json
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\bin\Debug\net8.0\FileRead2.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\bin\Debug\net8.0\FileRead2.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\bin\Debug\net8.0\FileRead2.pdb
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.sourcelink.json
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\refint\FileRead2.dll
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.pdb
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\FileRead2.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day15\FileRead2\FileRead2\obj\Debug\net8.0\ref\FileRead2.dll

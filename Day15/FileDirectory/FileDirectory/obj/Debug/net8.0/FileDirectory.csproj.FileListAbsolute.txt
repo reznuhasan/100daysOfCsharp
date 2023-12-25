@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\bin\Debug\net8.0\FileDirectory.exe
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\bin\Debug\net8.0\FileDirectory.deps.json
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\bin\Debug\net8.0\FileDirectory.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\bin\Debug\net8.0\FileDirectory.dll
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\bin\Debug\net8.0\FileDirectory.pdb
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.sourcelink.json
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.dll
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\refint\FileDirectory.dll
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.pdb
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\FileDirectory.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day15\FileDirectory\FileDirectory\obj\Debug\net8.0\ref\FileDirectory.dll

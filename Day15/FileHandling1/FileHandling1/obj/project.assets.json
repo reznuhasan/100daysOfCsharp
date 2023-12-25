@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\riznu\\100daysOfCsharp\\Day14\\FileHandling1\\FileHandling1\\FileHandling1.csproj",
+      "projectUniqueName": "E:\\riznu\\100daysOfCsharp\\Day15\\FileHandling1\\FileHandling1\\FileHandling1.csproj",
       "projectName": "FileHandling1",
-      "projectPath": "E:\\riznu\\100daysOfCsharp\\Day14\\FileHandling1\\FileHandling1\\FileHandling1.csproj",
+      "projectPath": "E:\\riznu\\100daysOfCsharp\\Day15\\FileHandling1\\FileHandling1\\FileHandling1.csproj",
       "packagesPath": "C:\\Users\\Riznu\\.nuget\\packages\\",
-      "outputPath": "E:\\riznu\\100daysOfCsharp\\Day14\\FileHandling1\\FileHandling1\\obj\\",
+      "outputPath": "E:\\riznu\\100daysOfCsharp\\Day15\\FileHandling1\\FileHandling1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Riznu\\AppData\\Roaming\\NuGet\\NuGet.Config",
