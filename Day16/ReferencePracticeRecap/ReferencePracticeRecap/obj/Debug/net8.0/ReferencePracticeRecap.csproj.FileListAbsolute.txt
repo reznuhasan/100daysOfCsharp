@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\bin\Debug\net8.0\ReferencePracticeRecap.exe
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\bin\Debug\net8.0\ReferencePracticeRecap.deps.json
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\bin\Debug\net8.0\ReferencePracticeRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\bin\Debug\net8.0\ReferencePracticeRecap.dll
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\bin\Debug\net8.0\ReferencePracticeRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.dll
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\refint\ReferencePracticeRecap.dll
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ReferencePracticeRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\ReferencePracticeRecap\ReferencePracticeRecap\obj\Debug\net8.0\ref\ReferencePracticeRecap.dll
