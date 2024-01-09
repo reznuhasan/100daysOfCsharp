@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\bin\Debug\net8.0\Different Types Variables Practice.exe
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\bin\Debug\net8.0\Different Types Variables Practice.deps.json
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\bin\Debug\net8.0\Different Types Variables Practice.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\bin\Debug\net8.0\Different Types Variables Practice.dll
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\bin\Debug\net8.0\Different Types Variables Practice.pdb
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.dll
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\refint\Different Types Variables Practice.dll
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.pdb
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\Different Types Variables Practice.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\Different Types Variables Practice\Different Types Variables Practice\obj\Debug\net8.0\ref\Different Types Variables Practice.dll
