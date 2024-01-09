@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\bin\Debug\net8.0\CopyContructorRecap.exe
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\bin\Debug\net8.0\CopyContructorRecap.deps.json
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\bin\Debug\net8.0\CopyContructorRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\bin\Debug\net8.0\CopyContructorRecap.dll
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\bin\Debug\net8.0\CopyContructorRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.dll
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\refint\CopyContructorRecap.dll
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\CopyContructorRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\CopyContructorRecap\CopyContructorRecap\obj\Debug\net8.0\ref\CopyContructorRecap.dll

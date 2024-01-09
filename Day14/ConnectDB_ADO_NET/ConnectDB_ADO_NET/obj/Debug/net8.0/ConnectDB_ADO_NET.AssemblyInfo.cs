@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectDB_ADO_NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1dbf8e9e9d626f481880bdcfd871544196d40f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectDB_ADO_NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectDB_ADO_NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
