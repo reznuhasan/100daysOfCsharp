@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\bin\Debug\net8.0\InheritanceRecap.exe
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\bin\Debug\net8.0\InheritanceRecap.deps.json
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\bin\Debug\net8.0\InheritanceRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\bin\Debug\net8.0\InheritanceRecap.dll
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\bin\Debug\net8.0\InheritanceRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.dll
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\refint\InheritanceRecap.dll
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.pdb
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\InheritanceRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\InheritanceRecap\InheritanceRecap\obj\Debug\net8.0\ref\InheritanceRecap.dll
