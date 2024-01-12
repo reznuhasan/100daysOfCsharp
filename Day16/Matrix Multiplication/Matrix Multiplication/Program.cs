@@ -16,9 +16,9 @@ namespace Matrix_Multiplication
             Matrix obj = new Matrix(first,second,third,fourth);
             return obj;
         }
-    public void Display()
+    public override string ToString()
         {
-            Console.WriteLine("a={0},b={1},c={2},d={3}",this.a,this.b,this.c,this.d);
+            return this.a+" "+this.b+"\n"+this.c+" "+this.d;
         }
     }
 }

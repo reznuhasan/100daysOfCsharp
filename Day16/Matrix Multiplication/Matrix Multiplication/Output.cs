@@ -6,4 +6,4 @@ Matrix obj2=new Matrix(5, 6, 7, 8);
 
 Matrix multi = obj1 * obj2;
 
-multi.Display();
+Console.WriteLine(multi);
