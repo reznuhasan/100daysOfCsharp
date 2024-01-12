@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\bin\Debug\net8.0\FractionOperatorOverloading.exe
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\bin\Debug\net8.0\FractionOperatorOverloading.deps.json
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\bin\Debug\net8.0\FractionOperatorOverloading.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\bin\Debug\net8.0\FractionOperatorOverloading.dll
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\bin\Debug\net8.0\FractionOperatorOverloading.pdb
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.dll
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\refint\FractionOperatorOverloading.dll
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.pdb
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\FractionOperatorOverloading.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\FractionOperatorOverloading\FractionOperatorOverloading\obj\Debug\net8.0\ref\FractionOperatorOverloading.dll
