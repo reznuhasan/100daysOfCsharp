@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrix_Addition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aaecaa09b08d6c1edabec28cbde47897d59ee90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrix_Addition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrix_Addition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
