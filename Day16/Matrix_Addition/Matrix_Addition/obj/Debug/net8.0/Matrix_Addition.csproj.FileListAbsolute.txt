@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.sourcelink.json
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\bin\Debug\net8.0\Matrix_Addition.exe
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\bin\Debug\net8.0\Matrix_Addition.deps.json
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\bin\Debug\net8.0\Matrix_Addition.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\bin\Debug\net8.0\Matrix_Addition.dll
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\bin\Debug\net8.0\Matrix_Addition.pdb
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.dll
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\refint\Matrix_Addition.dll
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.pdb
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\Matrix_Addition.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day16\Matrix_Addition\Matrix_Addition\obj\Debug\net8.0\ref\Matrix_Addition.dll
