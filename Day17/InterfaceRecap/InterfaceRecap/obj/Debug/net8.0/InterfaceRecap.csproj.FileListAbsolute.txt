@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\bin\Debug\net8.0\InterfaceRecap.exe
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\bin\Debug\net8.0\InterfaceRecap.deps.json
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\bin\Debug\net8.0\InterfaceRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\bin\Debug\net8.0\InterfaceRecap.dll
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\bin\Debug\net8.0\InterfaceRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.dll
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\refint\InterfaceRecap.dll
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\InterfaceRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\InterfaceRecap\InterfaceRecap\obj\Debug\net8.0\ref\InterfaceRecap.dll
