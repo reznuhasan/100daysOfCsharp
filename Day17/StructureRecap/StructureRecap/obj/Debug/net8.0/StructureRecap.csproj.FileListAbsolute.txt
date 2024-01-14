@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\bin\Debug\net8.0\StructureRecap.exe
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\bin\Debug\net8.0\StructureRecap.deps.json
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\bin\Debug\net8.0\StructureRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\bin\Debug\net8.0\StructureRecap.dll
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\bin\Debug\net8.0\StructureRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.dll
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\refint\StructureRecap.dll
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\StructureRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\StructureRecap\StructureRecap\obj\Debug\net8.0\ref\StructureRecap.dll

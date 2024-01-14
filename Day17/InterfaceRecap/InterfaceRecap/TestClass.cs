@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceRecap
 {
-    public class TestClass:IParent2
+    public class TestClass:IParent2,IParent3
     {
        public void Test1()
         {
@@ -15,6 +15,10 @@ namespace InterfaceRecap
         public void Test2()
         {
             Console.WriteLine("Called Parent 2");
+        }
+      public void Test3()
+        {
+            Console.WriteLine("Called Parent 3");
         }
     }
 }
