@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AbstractRecap.exe
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AbstractRecap.deps.json
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AbstractRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AbstractRecap.dll
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AbstractRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.dll
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\AbstractRecap.dll
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\AbstractRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\AbstractRecap.dll
