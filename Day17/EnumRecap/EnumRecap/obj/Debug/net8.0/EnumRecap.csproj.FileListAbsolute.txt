@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\bin\Debug\net8.0\EnumRecap.exe
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\bin\Debug\net8.0\EnumRecap.deps.json
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\bin\Debug\net8.0\EnumRecap.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\bin\Debug\net8.0\EnumRecap.dll
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\bin\Debug\net8.0\EnumRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.dll
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\refint\EnumRecap.dll
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.pdb
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\EnumRecap.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\EnumRecap\EnumRecap\obj\Debug\net8.0\ref\EnumRecap.dll
