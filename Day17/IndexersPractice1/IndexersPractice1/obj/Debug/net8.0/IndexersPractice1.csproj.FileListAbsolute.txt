@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\bin\Debug\net8.0\IndexersPractice1.exe
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\bin\Debug\net8.0\IndexersPractice1.deps.json
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\bin\Debug\net8.0\IndexersPractice1.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\bin\Debug\net8.0\IndexersPractice1.dll
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\bin\Debug\net8.0\IndexersPractice1.pdb
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.dll
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\refint\IndexersPractice1.dll
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.pdb
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\IndexersPractice1.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\IndexersPractice1\IndexersPractice1\obj\Debug\net8.0\ref\IndexersPractice1.dll
