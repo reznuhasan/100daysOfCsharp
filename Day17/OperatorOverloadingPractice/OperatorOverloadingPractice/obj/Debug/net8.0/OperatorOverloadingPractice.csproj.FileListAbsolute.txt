@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\bin\Debug\net8.0\OperatorOverloadingPractice.exe
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\bin\Debug\net8.0\OperatorOverloadingPractice.deps.json
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\bin\Debug\net8.0\OperatorOverloadingPractice.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\bin\Debug\net8.0\OperatorOverloadingPractice.dll
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\bin\Debug\net8.0\OperatorOverloadingPractice.pdb
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.dll
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\refint\OperatorOverloadingPractice.dll
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.pdb
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\OperatorOverloadingPractice.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\OperatorOverloadingPractice\OperatorOverloadingPractice\obj\Debug\net8.0\ref\OperatorOverloadingPractice.dll
