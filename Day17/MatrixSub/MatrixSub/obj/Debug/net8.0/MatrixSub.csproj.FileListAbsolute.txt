@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\bin\Debug\net8.0\MatrixSub.exe
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\bin\Debug\net8.0\MatrixSub.deps.json
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\bin\Debug\net8.0\MatrixSub.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\bin\Debug\net8.0\MatrixSub.dll
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\bin\Debug\net8.0\MatrixSub.pdb
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.dll
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\refint\MatrixSub.dll
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.pdb
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\MatrixSub.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\MatrixSub\MatrixSub\obj\Debug\net8.0\ref\MatrixSub.dll
