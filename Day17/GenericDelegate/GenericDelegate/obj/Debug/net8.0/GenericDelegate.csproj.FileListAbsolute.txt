@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\bin\Debug\net8.0\GenericDelegate.exe
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\bin\Debug\net8.0\GenericDelegate.deps.json
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\bin\Debug\net8.0\GenericDelegate.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\bin\Debug\net8.0\GenericDelegate.dll
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\bin\Debug\net8.0\GenericDelegate.pdb
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.dll
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\refint\GenericDelegate.dll
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.pdb
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\GenericDelegate.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\GenericDelegate\GenericDelegate\obj\Debug\net8.0\ref\GenericDelegate.dll
