@@ -1,0 +1,15 @@
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\bin\Debug\net8.0\DelegatePractice1.exe
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\bin\Debug\net8.0\DelegatePractice1.deps.json
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\bin\Debug\net8.0\DelegatePractice1.runtimeconfig.json
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\bin\Debug\net8.0\DelegatePractice1.dll
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\bin\Debug\net8.0\DelegatePractice1.pdb
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.GeneratedMSBuildEditorConfig.editorconfig
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.AssemblyInfoInputs.cache
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.AssemblyInfo.cs
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.csproj.CoreCompileInputs.cache
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.sourcelink.json
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.dll
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\refint\DelegatePractice1.dll
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.pdb
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\DelegatePractice1.genruntimeconfig.cache
+E:\riznu\100daysOfCsharp\Day17\DelegatePractice1\DelegatePractice1\obj\Debug\net8.0\ref\DelegatePractice1.dll
