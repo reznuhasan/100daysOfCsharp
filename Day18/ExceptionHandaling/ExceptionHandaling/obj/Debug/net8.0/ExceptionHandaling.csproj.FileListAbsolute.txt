@@ -1,0 +1,14 @@
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.AssemblyInfoInputs.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.AssemblyInfo.cs
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.csproj.CoreCompileInputs.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\bin\Debug\net8.0\ExceptionHandaling.exe
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\bin\Debug\net8.0\ExceptionHandaling.deps.json
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\bin\Debug\net8.0\ExceptionHandaling.runtimeconfig.json
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\bin\Debug\net8.0\ExceptionHandaling.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\bin\Debug\net8.0\ExceptionHandaling.pdb
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\refint\ExceptionHandaling.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.pdb
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ExceptionHandaling.genruntimeconfig.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\ExceptionHandaling\ExceptionHandaling\obj\Debug\net8.0\ref\ExceptionHandaling.dll
