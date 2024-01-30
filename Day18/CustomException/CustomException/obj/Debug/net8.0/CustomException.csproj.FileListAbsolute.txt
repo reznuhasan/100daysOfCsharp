@@ -1,0 +1,14 @@
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\bin\Debug\net8.0\CustomException.exe
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\bin\Debug\net8.0\CustomException.deps.json
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\bin\Debug\net8.0\CustomException.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\bin\Debug\net8.0\CustomException.pdb
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.pdb
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+C:\riznu\100daysOfCsharp-main\100daysOfCsharp-main\Day18\CustomException\CustomException\obj\Debug\net8.0\ref\CustomException.dll
